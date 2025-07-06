@@ -8,7 +8,6 @@ h1{
     display: inline-block;
     padding: 5px 10px;
     border: 5px solid #dc143c;
-   text-align: center;
    background-color: rgb(225, 11, 11);
    box-shadow: 5px 5px 5px rgb(93, 1, 251);
 }
@@ -50,11 +49,17 @@ text-align: center;
         color:black;
     }
 h3{
-    
-    display: inline-block;
     padding: 5px 10px;
-    border: 5px solid #dc143c;
-   text-align: center;
+    border: 5px solid #dc143c;;
    background-color: red;
    box-shadow: 5px 5px 5px white;
+}
+.Drg{
+    background-color: darkred;
+    text-align:center;
+    font-size: larger;
+    font-weight: 900;
+    border: 5px dashed;
+    padding: 5px;
+    color: black;
 }
